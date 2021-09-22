@@ -1,3 +1,4 @@
+create database projeto;
 use projeto;
 CREATE TABLE usuario (
   id int auto_increment primary key,
