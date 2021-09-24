@@ -23,7 +23,7 @@ session_destroy();
 <body>
 
 	<div class="limiter">
-		<div class="container-login100">
+		<div class="container-login100" style="background-color: #fff">
 			<div class="wrap-login100">
 				<form class="login100-form validate-form" action="cadastrar.php" method="POST">
 					<span class="login100-form-title">
